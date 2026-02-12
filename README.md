@@ -58,14 +58,15 @@ Clean code formatting
 Navigation handling between pages
 
 📷 Screenshots
+HOME PAGE
 <img width="1152" height="937" alt="Image" src="https://github.com/user-attachments/assets/7ccbb352-a47b-4710-a619-807602888d41" />
-
+PAGE-1
 <img width="1149" height="927" alt="Image" src="https://github.com/user-attachments/assets/b09ec973-7e5c-4c03-9017-8deb8b9fffc9" />
-
+PAGE-2
 <img width="1140" height="940" alt="Image" src="https://github.com/user-attachments/assets/d7cd5946-bcd7-485d-b582-49f2656037a2" />
-
+PAGE-3
 <img width="1129" height="925" alt="Image" src="https://github.com/user-attachments/assets/0dfde945-a4ec-49ff-a9f6-62d1ee03e3cd" />
-
+PAGE-4
 <img width="1136" height="940" alt="Image" src="https://github.com/user-attachments/assets/b402f1c8-ab12-46eb-9a92-0ebf894fe23e" />
-
+PAGE-5
 <img width="1133" height="931" alt="Image" src="https://github.com/user-attachments/assets/f4a1f7b8-eb8e-485f-92d7-656f95c8b316" />``
